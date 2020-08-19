@@ -1,0 +1,52 @@
+Hi} Hea; | exe Jobs | Logi |» 3.Gr | GI Jobs | [A App | wh Ciscc | WEE Asse | yy Wor | @ Best |<” GL [4B Cod | MH Mail Qt x .. Cod | Ia Cod | + - x
+€ Cf hackerrank.com/test/c86t9co0f4/questions/7n89hcbsmnb x Oe ty a cw] = Heo a oO
+ET Apps Mi SID OM CRUD =: NotesGallery|IITK.. Shriresume | downl...  €) GitHub - Inishan/a..  @ Main Page- Compe... @ (18) Hotel Manage.. » Other bookmarks
+23m * e
+Peas C+H4+14 v Autocomplete G&G
+Ready ©
+1. Crazy cubes 24 using namespace std;
+ALL 25 Vv int main() £
+26 /* Enter your code here.
+There is a store room which has only three sides all touching each other perpendicularly, the sides can be defined as: Read input from STDIN. Print
+oO two infinitely large walls and one infinitely large floor. output to STDOUT */
+There are N cubes of unit volume. You need to store the cubes in the store room but there are 2 rules to be followed oe long Long T=0;
+1 before storing: 29 cin>>T;
+30
+1. Acube can be placed anywhere on the floor. a1 while(T--){
+2 2. If a cube Ais placed upon another cube B, then there should be a cube on all the four sides of the cube B unless the 32 long long n=0;
+side is already blocked by a wall. 33 cin>>n;
+34v if (n<=3){
+3 35 cout<<n<<"\n"5
+36 }
+Infinity 37 Vv else{
+38
+39
+40 long long t = n/3;
+41 cout<<(n-t)<<"\n"'5 ~
+42 }
+43 }
+44 return 0;
+
+ 
+  
+  
+
+Test
+
+ 
+
+Line: 38 Col: 5
+
+ 
+ 
+
+Custom
+
+ 
+
+Run ey
+ee ol
+
+  
+
+8/17/2020

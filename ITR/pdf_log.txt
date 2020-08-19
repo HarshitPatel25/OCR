@@ -1,0 +1,561 @@
+
+ 
+ 
+ 
+[भाग II—खण्‍ड 3(i)]
+ 
+M
+R
+O
+F
+ITR-1 
+SAHAJ 
+भारत‍का‍राजपत्र‍:‍असाधारण 
+INDIAN INCOME TAX RETURN 
+3 
+Assessment Year 
+[For individuals being a resident (other than not ordinarily resident) having total income upto Rs.50 lakh, having 
+Income from Salaries, one house property, other sources (Interest etc.), and agricultural income upto Rs.5 thousand] 
+[Not for an individual who is either Director in a company or has invested in unlisted equity shares] 
+(Refer instructions for eligibility) 
+2  0  2  0  -  2  1 
+PART A GENERAL INFORMATION 
+PAN    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mobile No.  
+Email Address 
+Name   
+Date of Birth 
+D  D  M  M  Y  Y  Y  Y   
+Aadhaar  Number  (12  digits)/Aadhaar  Enrolment  Id  (28  digits)  (If  eligible  for 
+Aadhaar No.) 
+ 
+ 
+ 
+ 
+Address:   Flat/Door/Block No.      Name of Premises/Building/Village Road/Street/Post 
+Office   Area/Locality     Town/City/District          State      Country                  PIN code 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 139(1)-On or before due date, 139(4)-Belated, 139(5)-Revised,  
+  119(2)(b)- After Condonation of delay.  
+ Filed u/s (Tick) 
+[Please see instruction]  
+Or Filed  in response to notice u/s     139(9),    142(1),   148, 153A   153C    
+  Nature of employment- 
+ Central Govt.   State Govt.    Public 
+Sector Undertaking   Pensioners   
+Others  Not Applicable (e.g. Family 
+Pension etc.) 
+ 
+ 
+ 
+If revised/defective, then enter Receipt No. and Date of filing original return (DD/MM/YYYY) 
+If filed in response to notice u/s 139(9)/142(1)/148/153A/153C or order u/s 119(2)(b)- enter Unique Number/Document 
+Identification Number (DIN) & Date of such Notice or Order 
+Are you filing return of income under Seventh proviso to section 139(1) but otherwise not required to furnish return of income? - (Tick)  Yes  No 
+If yes, please furnish following information 
+[Note: To be filled only if a person is not required to furnish a return of income under section 139(1) but filing return of income due to fulfilling one or 
+more conditions mentioned in the seventh proviso to section 139(1)] 
+Have you deposited amount or aggregate of amounts exceeding Rs. 1 Crore in one or more current account during 
+the previous year? (Yes/No) 
+Have you incurred expenditure of an amount or aggregate of amount exceeding Rs. 2 lakhs for travel to a foreign 
+country for yourself or for any other person? (Yes/ No) 
+Have you incurred expenditure of amount or aggregate of amount exceeding Rs. 1 lakh on consumption of 
+electricity during the previous year? (Yes/No) 
+PART B   GROSS TOTAL INCOME                                                                                                                       Whole- Rupee(  ) only   
+B1 
+Amount (Rs) (If Yes) 
+Amount (Rs) (If Yes) 
+Amount (Rs) (If Yes) 
+i  Gross Salary  (ia + ib + ic) 
+     /     / 
+  /    / 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    i 
+Less allowances to the extent exempt u/s 10 (drop down to be provided in e-filing utility) 
+(Ensure that it is included in salary income u/s 17(1)/17(2)/17(3) )   
+a  Salary as per section 17(1) 
+b  Value of perquisites as per section 17(2) 
+c  Profit in lieu of salary as per section 17(3) 
+   
+N
+O
+I
+S
+N
+E
+P
+ii 
+ 
+ 
+/
+ 
+Y
+R
+A
+L
+A
+S
+iii Net Salary (i – ii) 
+iv Deductions u/s 16  (iva + ivb + ivc) 
+a  Standard deduction u/s 16(ia)  
+b  Entertainment allowance u/s 16(ii) 
+c  Professional tax u/s 16(iii) 
+ 
+ia 
+ib 
+ic 
+iva 
+ivb 
+ivc 
+ 
+ 
+ 
+ 
+ 
+ 
+v  Income chargeable under the head ‘Salaries’  (iii – iv) 
+B2  Tick applicable option    Self-Occupied   Let Out   Deemed Let Out  
+  i  Gross rent received/ receivable/ lettable value during the year  
+Y
+T
+R
+E
+P
+O
+R
+P
+E
+S
+U
+O
+H
+ii  Tax paid to local authorities  
+iii Annual Value (i – ii) 
+iv 30% of Annual Value 
+v  Interest payable on borrowed capital 
+vi Arrears/Unrealised rent received during the year less 30% 
+vii Income chargeable under the head ‘House Property’ (iii – iv – v) + vi (If loss, put the figure in negative) 
+Note: - Maximum loss from House Property that can be set-off is INR 2, 00,000. To avail the benefit of carry 
+forward and set of loss, please use ITR -2 
+iv 
+v 
+vi 
+ 
+ 
+ 
+ii 
+ 
+ 
+B3  Income from Other Sources (drop down to be provided in e-filing utility specifying nature of income) 
+  Less: Deduction u/s 57(iia) (in case of family pension only) 
+B4  Gross Total Income (B1+B2+B3) (If loss, put the figure in negative) 
+Note: To avail the benefit of carry forward and set of loss, please use ITR -2 
+ 
+ 
+ 
+ 
+ 
+ii 
+iii 
+iv 
+B1 
+i 
+iii 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+B2  
+B3 
+ 
+B4  
+PART C – DEDUCTIONS AND TAXABLE TOTAL INCOME (Refer instructions for Deduction limit as per Income-tax Act)  
+Whether, you have made any investment/ deposit/ payments between 01.04.2020 to 30.06.2020 for the purpose of claiming any deduction under Part B of 
+Chapter VIA? [Yes/No] 
+(If yes, please fill schedule DI) 
+80CCD(1) 
+80C 
+ 80CCD(1B) 
+80CCC 
+80EE 
+80CCD(2) 
+80E 
+80EEA  80EEB 
+80GGC 
+80TTB 
+80D  
+(Details are to be filled 
+in the drop down to be 
+provided in e-filing 
+utility) 
+80DD 
+(Details are to be 
+filled in the drop 
+down to be 
+provided in e-filing 
+utility) 
+80TTA 
+80DDB 
+(Details are to be filled 
+in the drop down to be 
+provided in e-filing 
+utility) 
+80GG 
+ 
+80G 
+(Details are to 
+be filled in the 
+drop down to 
+be provided in  
+e-filing utility) 
+80GGA  
+(Details are to be 
+filled in the drop 
+down to be 
+provided in e-
+filing utility) 
+C1 
+Total deductions 
+ 
+Exempt Income: For reporting purpose 
+ 
+ 
+ 
+80U 
+(Details are to 
+be filled in the 
+drop down to be 
+provided in e-
+filing utility) 
+ 
+Total Income  
+(B4-C1) 
+C2 
+Drop down to be provided in e-filing utility mentioning nature of exempt income, relevant clause and section 
+ 
+ 
+ 
+4  
+THE GAZETTE OF INDIA : EXTRAORDINARY 
+   [PART II—SEC. 3(i)] 
+PART D – COMPUTATION OF TAX PAYABLE  
+D1  Tax payable on total income  
+ 
+D2  Rebate u/s 87A 
+D4  Health and education Cess @ 
+ 
+D5 
+Total Tax and Cess  
+ 
+ 
+ 
+Interest u/s 234B 
+D8 
+D11  Total Tax, Fee and Interest (D5+D7+D8+D9+D10 – D6) 
+D13  Amount payable 
+D14  Refund  
+D9 
+ 
+(D11-D12) (if D11>D12) 
+(D12-D11) (if D12>D11) 
+ 
+ 
+ 
+D3 
+Tax after Rebate  
+D6  Relief u/s 89 (Please 
+ensure to submit Form 
+10E to claim this relief) 
+Interest u/s 234C 
+4% on D3 
+Interest u/s 234A 
+D7 
+D10  Fee u/s 234F 
+D12  Total Taxes Paid 
+PART E – OTHER INFORMATION  
+Details of all Bank Accounts held in India at any time during the previous year (excluding dormant accounts) 
+Account Number  
+Sl. 
+IFS Code of the Bank 
+Name of the Bank 
+Select Account for Refund Credit 
+ 
+ 
+ 
+1. Minimum one account should be selected for refund credit. 
+2. In case of Refund, multiple accounts are selected for refund credit, then refund will be credited to one of the account decided by CPC after processing the return. 
+Schedule-IT  Details of Advance Tax and Self-Assessment Tax payments 
+Date of Deposit (DD/MM/YYYY) 
+ 
+Col  (2) 
+ 
+ 
+ 
+ 
+BSR Code 
+Col  (1) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+R1 
+R2 
+ 
+Schedule-TDS Details of TDS/TCS [As per Form 16/16A/16C/27D issued by the Deductor(s)/ Employer(s)/ Payer(s)/ Collector(s)] 
+Gross payment/ receipt  which is 
+ 
+subject to tax deduction /collection 
+Name of the Deductor/ 
+Collector/Tenant 
+Year of tax 
+deduction/ collection  
+Tax Deducted/ 
+collected  
+TDS/TCS credit out of 
+(5) claimed this Year 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Serial Number of Challan 
+Col  (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tax paid 
+Col  (4)  
+TAN of 
+deductor/Collector or 
+PAN/ Aadhaar No. of the 
+Tenant 
+ Col (1) 
+ 
+ 
+Col (2) 
+ 
+ 
+Col (3) 
+ 
+ 
+Col  (4) 
+ 
+ 
+ 
+Col  (5) 
+ 
+ 
+Col (6) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+I 
+ 
+ 
+T1 
+T2 
+ 
+Schedule DI - Details of Investment 
+ Investment/ Deposit/ Payments for the purpose of claiming deduction under Part B of Chapter VIA 
+Section 
+Col (1) 
+(ii) 
+Eligible amount of deduction during FY 2019-20 
+(As per Part C- Deductions and taxable total income) 
+Deduction attributable to investment/expenditure made 
+between 01.04.2020 to 30.06.2020 
+(Out of Col No.2) 
+Col (2) 
+Col (3) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+80C 
+80CCC 
+80CCD(1) 
+80CCD(1B) 
+80CCD(2) 
+ 80D 
+ 80DD 
+ 80DDB 
+ 80E 
+ 80EE 
+ 80EEA 
+ 80EEB 
+ 80G 
+ 80GG 
+ 80GGA 
+ 80GGC 
+ Total 
+ 
+ 
+Stamp Receipt No., Seal, 
+Date & Sign of Receiving 
+Official 
+I,                                      son/ daughter of                                solemnly declare that to the best of my knowledge and belief, the information given 
+in the return is correct and complete and is in accordance with the provisions of the Income-tax Act, 1961. I further declare that I am making this 
+return in my capacity as ___________(drop down to be provided in e-filing utility) and I am also competent to make this return and verify it. I 
+am holding permanent account number                          .(Please see instruction).       
+Date:                                                                                                         Signature: 
+VERIFICATION 
+ 
+If the return has been prepared by a Tax Return Preparer (TRP) give further details below: 
+Identification No. of TRP  
+ 
+ 
+If TRP is entitled for any reimbursement from the Government, amount thereof 
+ 
+Name of TRP 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Counter Signature of TRP 
+ 
+    
+ 
+ 
+ 
+ 
+ 
